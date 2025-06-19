@@ -50,7 +50,7 @@ Sum of salary from people whose name starts with 'M': 9000.00
 
 🛠 Tecnologias
 
-    Java 8+
+    Java 22.0.2
 
     Programação funcional (Streams)
 
